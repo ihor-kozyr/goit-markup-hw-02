@@ -1,0 +1,271 @@
+
+
+
+body{ font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;
+background-color: #E5E5E5;
+
+}
+:root{
+    --theme-color:#2196F3;
+    --text-primary: #757575;
+   --text-secondary: #212121;
+
+   --primari-font:'Roboto';
+   --secondary-font:'Raleway';
+
+
+}
+ul{ list-style: none;}
+
+
+
+a {  text-decoration:none;
+list-style: none;}
+
+/*Logo*/
+.color-logo1{ color: --theme-color;}
+.color-logo2{color: #000;}
+.logo-box{
+
+width: 145px;
+height: 31px;
+left: 215px;
+top: 24px;
+
+font-family: var(--secondary-font);
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 1.2;
+letter-spacing: 0.03em;
+}
+
+/* header */
+.heder-box{
+    font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.02em;
+background: #FFF;
+
+}
+
+
+
+.nav-link{
+color: var(--text-secondary);}
+
+.nav-link:hover, .nav-link:focus, .nav-link:active{
+  color: var(--theme-color);}
+
+.contakt-link {
+        color: var(--text-primary);
+}
+.contakt-link:focus, .contakt-link:hover{
+        color: var(--theme-color);
+   
+}
+
+
+/* active page!!*/
+.active-page{color: var(--theme-color);}
+
+/*Slogan*/
+.slogan{width: 696px;
+height: 120px;
+left: 452px;
+top: 280px;
+font-style: normal;
+font-weight: 900;
+font-size: 44px;
+line-height: 1.36;
+text-align: center;
+letter-spacing: 0.06em;
+text-transform: uppercase;
+color: #FFFFFF;}
+
+
+
+/*Features*/
+.headline-features{
+    width: 270px;
+height: 16px;
+left: 515px;
+top: 774px;
+font-style: normal;
+font-weight: bold;
+font-size: 14px;
+line-height: 1.14;
+letter-spacing: 0.03em;
+text-transform: uppercase;
+color: var(--text-secondary);}
+.text-features{
+    width: 270px;
+height: 75px;
+left: 515px;
+top: 800px;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 1.71;
+letter-spacing: 0.03em;
+color: var(--text-primary);
+}
+/*What we do*/
+.what-we-do-healine{
+   font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 1.17;
+text-align: center;
+letter-spacing: 0.03em;
+color: var(--text-secondary);}
+
+/* Team*/
+.team{
+background: #F5F4FA;
+}
+.team-headline{
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 1.17;
+text-align: center;
+letter-spacing: 0.03em;
+color: var(--text-secondary);}
+.team-name{
+    font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+text-align: center;
+letter-spacing: 0.03em;
+color: var(--text-secondary);
+}
+.team-positon{
+    font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 1.9;
+text-align: center;
+letter-spacing: 0.03em;
+color: var(--text-primary);
+}
+.team-box{
+    width: 270px;
+height: 368px;
+left: 215px;
+top: 1635px;
+background-color: #fff;
+}
+
+
+/*filter */
+
+.filter{cursor: pointer;
+background: #F5F4FA;
+border-radius: 4px;
+
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 1.63;
+text-align: center;
+letter-spacing: 0.03em
+}
+.filter:hover, .filter:active, .filter:focus  {
+    color: #fff;
+background-color:var(--theme-color)
+
+}
+
+
+
+
+/*Portfolio projects*/
+.portfolio-projects-box{
+ width: 370px;
+height: 404px;
+left: 215px;
+top: 262px;
+background: #FFF;
+border: 1px solid #EEE;
+box-sizing: border-box;   
+}
+.portfolio-project-headline{
+    font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 2;
+letter-spacing: 0.06em;
+color: var(--text-secondary);
+}
+.portfolio-project-categori{
+    font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 1.9;
+letter-spacing: 0.03em;
+color: var(--text-primary);
+}
+.images-portfolio{
+   width: 370px; height: 294px;
+}
+
+
+/* Order a service */
+.btn-order{
+width: 200px;
+height: 50px;
+left: 700px;
+top: 430px;
+background: var(--theme-color);
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
+border-radius: 4px;
+cursor: pointer;}
+
+.order-text{font-size: 16px;
+line-height: 30px;
+align-items: center;
+text-align: center;
+letter-spacing: 0.06em;
+color: #FFF;}
+
+
+
+
+/*  Footer*/
+.footer-box{
+background: #2F303A;}
+.footer-contacts{
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 1.7;
+letter-spacing: 0.03em;
+color: rgba(255, 255, 255, 0.6);}
+.footer-contacts:hover, .footer-contacts:active, .footer-contacts:focus  {
+    color: var(--theme-color);
+}
+
+
+
+
+
+.footer-address{
+    font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 1.7;
+letter-spacing: 0.03em;
+color: #FFF;}
+.footer-logo{
+font-family: Raleway;
+font-style: normal;
+font-weight: bold;
+font-size: 26px;
+line-height: 1.19;
+letter-spacing: 0.03em;
+}
