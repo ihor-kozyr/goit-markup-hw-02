@@ -24,7 +24,7 @@ a {  text-decoration:none;
 list-style: none;}
 
 /*Logo*/
-.color-logo1{ color: --theme-color;}
+.color-logo1{ color: #2196F3}
 .color-logo2{color: #000;}
 .logo-box{
 
@@ -55,7 +55,10 @@ background: #FFF;
 
 
 .nav-link{
-color: var(--text-secondary);}
+color: var(--text-secondary);
+font-family: Roboto;
+font-weight: 500;
+}
 
 .nav-link:hover, .nav-link:focus, .nav-link:active{
   color: var(--theme-color);}
@@ -70,7 +73,9 @@ color: var(--text-secondary);}
 
 
 /* active page!!*/
-.active-page{color: var(--theme-color);}
+.active-page{color: var(--theme-color);
+font-family: Roboto;
+font-weight: 500;}
 
 /*Slogan*/
 .slogan{width: 696px;
@@ -168,6 +173,7 @@ background-color: #fff;
 background: #F5F4FA;
 border-radius: 4px;
 
+font-family: Roboto;
 font-style: normal;
 font-weight: 500;
 font-size: 16px;
@@ -231,7 +237,11 @@ line-height: 30px;
 align-items: center;
 text-align: center;
 letter-spacing: 0.06em;
-color: #FFF;}
+color: #FFF;
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+}
 
 
 
