@@ -24,23 +24,12 @@ a {  text-decoration:none;
 list-style: none;}
 
 /*Logo*/
-<<<<<<< Updated upstream
 .color-logo1{ color: #2196F3}
 .color-logo2{color: #000;}
 .color-logo3{color: #FFF;}
 .logo-box{
 font-family: var(--secondary-font);
 font-weight: bold;
-=======
-.color-logo1{ color: #2196F3;}
-.color-logo2{color: #000;}
-.color-logo3{color: #fff;}
-.logo-box{
-
-
-
-font-family: var(--secondary-font);
->>>>>>> Stashed changes
 font-size: 26px;
 line-height: 1.2;
 letter-spacing: 0.03em;
@@ -48,13 +37,8 @@ letter-spacing: 0.03em;
 
 /* header */
 .heder-box{
-<<<<<<< Updated upstream
 
 font-weight: 500;
-=======
-    font-family: var(--primari-font);
-    font-weight: 500;
->>>>>>> Stashed changes
 font-size: 14px;
 line-height: 1.14;
 letter-spacing: 0.02em;
@@ -94,10 +78,6 @@ font-family: var(--primari-font);
 height: 120px;
 left: 452px;
 top: 280px;
-<<<<<<< Updated upstream
-
-=======
->>>>>>> Stashed changes
 font-weight: 900;
 font-size: 44px;
 line-height: 1.36;
@@ -110,11 +90,7 @@ color: #FFFFFF;}
 
 /*Features*/
 .headline-features{
-<<<<<<< Updated upstream
   
-=======
-font-family: var(--primari-font);
->>>>>>> Stashed changes
 font-weight: bold;
 font-size: 14px;
 line-height: 1.14;
@@ -124,14 +100,9 @@ color: var(--text-secondary);}
 
 
 .text-features{
-<<<<<<< Updated upstream
  width: 270px;   
 font-size: 14px;
 line-height: 1.71;
-=======
-font-family: var(--primari-font);
-ne-height: 1.71;
->>>>>>> Stashed changes
 letter-spacing: 0.03em;
 color: var(--text-primary);
 }
@@ -139,12 +110,8 @@ color: var(--text-primary);
 /*What we do*/
 .what-we-do-healine{
    
-<<<<<<< Updated upstream
 font-weight: bold;
 font-size: 36px;
-=======
-
->>>>>>> Stashed changes
 line-height: 1.17;
 text-align: center;
 letter-spacing: 0.03em;
@@ -156,37 +123,25 @@ background: #F5F4FA;
 }
 .team-headline{
 
-<<<<<<< Updated upstream
 font-weight: bold;
 font-size: 36px;
-=======
->>>>>>> Stashed changes
 line-height: 1.17;
 text-align: center;
 letter-spacing: 0.03em;
 color: var(--text-secondary);}
 .team-name{
 
-<<<<<<< Updated upstream
 font-weight: 500;
 font-size: 16px;
-=======
-
->>>>>>> Stashed changes
 line-height: 19px;
 text-align: center;
 letter-spacing: 0.03em;
 color: var(--text-secondary);
 }
 .team-positon{
-<<<<<<< Updated upstream
 
 
 font-size: 16px;
-=======
- 
-
->>>>>>> Stashed changes
 line-height: 1.9;
 text-align: center;
 letter-spacing: 0.03em;
@@ -204,15 +159,10 @@ background-color: #fff;
 .filter{cursor: pointer;
 background: #F5F4FA;
 border-radius: 4px;
-<<<<<<< Updated upstream
 font-weight: 500;
 font-family:var(--primari-font);
 
 font-size: 16px;
-=======
-font-family: var(--primari-font);
-font-weight: 500;
->>>>>>> Stashed changes
 line-height: 1.63;
 text-align: center;
 letter-spacing: 0.03em
@@ -222,7 +172,7 @@ letter-spacing: 0.03em
 
 .filter:hover, .filter:active, .filter:focus  {
     color: #fff;
-background-color:var(--theme-color)
+background-color:var(--theme-color);
 font-family: var(--primari-font);
 }
 
@@ -231,10 +181,7 @@ font-family: var(--primari-font);
 
 /*Portfolio projects*/
 .portfolio-projects-box{
-<<<<<<< Updated upstream
  width: 370px;
-=======
->>>>>>> Stashed changes
 
 background: #FFF;
 border: 1px solid #EEE;
@@ -261,15 +208,11 @@ color: var(--text-primary);
 
 /* Order a service */
 .btn-order{
-<<<<<<< Updated upstream
  
 width: 200px;
 height: 50px;
 left: 700px;
 top: 430px;
-=======
-
->>>>>>> Stashed changes
 background: var(--theme-color);
 box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
 border-radius: 4px;
@@ -297,10 +240,7 @@ font-weight: bold;
 background: #2F303A;}
 .footer-contacts{
 
-<<<<<<< Updated upstream
 font-size: 14px;
-=======
->>>>>>> Stashed changes
 line-height: 1.7;
 letter-spacing: 0.03em;
 color: rgba(255, 255, 255, 0.6);}
@@ -311,25 +251,16 @@ color: rgba(255, 255, 255, 0.6);}
 
 
 .footer-address{
-<<<<<<< Updated upstream
 font-family: var(--primari-font);  
 font-style:normal;
 font-weight: normal;
-=======
-    
->>>>>>> Stashed changes
 font-size: 14px;
 line-height: 1.7;
 color: #FFF;}
 
 
 .footer-logo{
-<<<<<<< Updated upstream
 font-family:   var(--secondary-font);
-=======
-font-family: var(--secondary-font);
-
->>>>>>> Stashed changes
 font-weight: bold;
 font-size: 26px;
 line-height: 1.19;
